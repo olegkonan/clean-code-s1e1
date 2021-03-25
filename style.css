@@ -10,10 +10,10 @@ body {
   display: block;
   text-align: right;
 }
-.matrix-container img {
+.matrix-image {
   width: 100%;
 }
-.matrix-container .more-inf {
+.more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -34,7 +34,7 @@ body {
 .task-row-wrapper {
   display: flex;
 }
-ul {
+.list {
   margin:0;
   padding: 0px;
 }
